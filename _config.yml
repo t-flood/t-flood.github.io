@@ -1,11 +1,11 @@
 # Site settings
-author: Tim Flood
-title: 
+author: Tim
+title: My rocky path to a career as a software engineer
 header-img: img/home-bg.png
 email: tflood9@gmail.com
-copyright_name: Tim Flood
+copyright_name: Tim
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Powering through confusion
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  t-flood
