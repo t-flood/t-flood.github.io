@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Project with Open Brewery DB"
-date:       2020-10-11 17:06:58 +0000
+date:       2020-10-11 13:06:59 -0400
 permalink:  cli_project_with_open_brewery_db
 ---
 
